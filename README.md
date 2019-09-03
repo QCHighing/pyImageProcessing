@@ -1,5 +1,5 @@
 # pyImageProcessing
-用python语言实现的多个数字图像处理算法，下面列出了简单信息：
+用python语言实现的多个数字图像处理算法。之前是分仓库存放代码，过于散乱，现整理到一个仓中，下面列出了简单信息：
 
 |      |             Name              |   Category   | Description                                       |  start Time  | Result Image |
 | :--: | :---------------------------: | :----------: | ------------------------------------------------- | :----------: | :----------: |
@@ -8,3 +8,8 @@
 |  3   |          FuzzyCMeans          |   聚类分割   | 与K-Means对比，对图像和鸢尾花数据进行聚类（分割） | Apr 21, 2019 |      √       |
 |  4   | ActiveContourModel-SnakeModel | 主动轮廓模型 | 用numpy实现基本的Snake模型                        | Aug 27, 2019 |      √       |
 
+------
+
+附上仓库合并前的布局：
+
+![整理前的原始仓库img](https://wx4.sinaimg.cn/large/afdac72dly1g6mo4gul45j20ns097dg5.jpg)
