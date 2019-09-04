@@ -12,4 +12,4 @@
 
 附上仓库合并前的布局：
 
-![整理前的原始仓库img](https://wx4.sinaimg.cn/large/afdac72dly1g6mo4gul45j20ns097dg5.jpg)
+![整理前的原始仓库](https://ws2.sinaimg.cn/large/afdac72dgy1g6nkee8kn1j20na0880u6.jpg)
